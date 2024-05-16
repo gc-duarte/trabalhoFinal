@@ -1,0 +1,37 @@
+ Título_box: x = 30,54% da LARGURA
+            size_x = 38,95% da LARGURA
+            y = 6,62% da ALTURA
+            size_y = 18,26% da ALTURA
+
+Jogar_box: x = 37,24% da LARGURA
+           size_x = 25,32% da LARGURA
+           y = 57,80% da ALTURA
+           size_y = 8,57% da ALTURA
+
+Sair_box: x = 37,24% da LARGURA
+          size_x = 25,32% da LARGURA
+          y = 72,02% da ALTURA
+          size_y = 8,57% da ALTURA
+
+Voltar_box: x = 37,24% da LARGURA
+            size_x = 25,32% da LARGURA
+            y = 85,36% da ALTURA
+            size_y = 8,57% da ALTURA
+
+FONTE_TÍTULO: (30,61% da LARGURA + 15,96% da ALTURA) / 2
+FONTE_SELEÇÃO: (9,87% da LARGURA + 6,41% da ALTURA) / 2
+
+------------------- / / -------------------
+
+Figura_Esquerda: x = 9,47% da LARGURA
+                size_x = 13,57% da LARGURA
+                y = 61,88% da ALTURA
+                size_y = 21,56% da ALTURA 
+
+Figura_Direita: x = 78,31% da LARGURA 
+                size_x = 10,97% da LARGURA
+                y = 61,88% da ALTURA
+                size_y = 21,56% da ALTURA
+
+------------------- / / -------------------
+
